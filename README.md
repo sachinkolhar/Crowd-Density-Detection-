@@ -44,7 +44,6 @@ crowd_project/
 ├─ labels.csv # Labels file (columns: id, count)  
 ├─ app.py # Streamlit Explainable AI app  
 ├─ crowd_management.py # YOLOv8 + TensorFlow training pipeline  
-├─ best_model.h5 # Trained TensorFlow model (auto-saved)  
 ├─ requirements.txt # List of dependencies  
 └─ README.md # Project documentation
 
